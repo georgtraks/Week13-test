@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\week13-test\ülesanne3\bin\Debug\netcoreapp3.1\ülesanne3.exe
+C:\Users\opilane\source\repos\week13-test\ülesanne3\bin\Debug\netcoreapp3.1\ülesanne3.deps.json
+C:\Users\opilane\source\repos\week13-test\ülesanne3\bin\Debug\netcoreapp3.1\ülesanne3.runtimeconfig.json
+C:\Users\opilane\source\repos\week13-test\ülesanne3\bin\Debug\netcoreapp3.1\ülesanne3.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\week13-test\ülesanne3\bin\Debug\netcoreapp3.1\ülesanne3.dll
+C:\Users\opilane\source\repos\week13-test\ülesanne3\bin\Debug\netcoreapp3.1\ülesanne3.pdb
+C:\Users\opilane\source\repos\week13-test\ülesanne3\obj\Debug\netcoreapp3.1\ülesanne3.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\week13-test\ülesanne3\obj\Debug\netcoreapp3.1\ülesanne3.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\week13-test\ülesanne3\obj\Debug\netcoreapp3.1\ülesanne3.AssemblyInfo.cs
+C:\Users\opilane\source\repos\week13-test\ülesanne3\obj\Debug\netcoreapp3.1\ülesanne3.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\week13-test\ülesanne3\obj\Debug\netcoreapp3.1\ülesanne3.dll
+C:\Users\opilane\source\repos\week13-test\ülesanne3\obj\Debug\netcoreapp3.1\ülesanne3.pdb
+C:\Users\opilane\source\repos\week13-test\ülesanne3\obj\Debug\netcoreapp3.1\ülesanne3.genruntimeconfig.cache
